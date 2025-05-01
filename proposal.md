@@ -13,7 +13,7 @@
 Plataforma web dedicada a la venta de productos de un emprendimiento, en este caso de velas artesanales. La idea es que existan distintos tipos de clientes: Inicial, Medium o Premium, cada uno con diferentes niveles de descuentos, quienes pueden realizar compras mediante el uso de mercado pago de manera virtual aplicando estos descuentos a través de la página. El sistema además de poder gestionar los pagos, tendrá un/os usuario/s administradores capaces de gestionar productos, pedidos y usuarios de forma eficiente.
 
 ### Modelo
-![image]()
+![DER](DER.png)
 
 
 ## Alcance Funcional 
